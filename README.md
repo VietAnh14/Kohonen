@@ -1,2 +1,2 @@
-# Konohen
-Konohen project for school with r = 0
+# Kohonen
+Kohonen project for school with r = 0
